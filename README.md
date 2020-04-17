@@ -7,3 +7,6 @@
  
  Make some more changes to the local copy of your file and push them to GitHub.
  Go to your GitHub account and see your new repo and the changes you've made.
+
+And:
+Testing .gitignore
